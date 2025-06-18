@@ -4,8 +4,10 @@ Este projeto tem como objetivo demonstrar práticas de teste de segurança em ap
 
 Durante o projeto, foram utilizados scanners de vulnerabilidades como:
 
-  - Nmap – para mapeamento de portas e serviços ativos na máquina alvo.
+  -  Nmap – para mapeamento de portas e serviços ativos na máquina alvo.
   -  Nikto – para varredura e detecção de vulnerabilidades conhecidas em servidores web.
+  -  Metaexploit framework
+  -  wireshark
 
 ### Esses testes permitiram identificar falhas e entender na prática como ferramentas de pentest são usadas em um ambiente controlado para fins educacionais.
 
